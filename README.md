@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Stackxs&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Building%20the%20Future%20of%20Technology&descAlignY=55&descSize=25" width="100%"/>
+<!-- Company Logo -->
+<img src="assets/logo/stackxs-logo.png" alt="Stackxs Logo" width="400"/>
 
 <br/>
 <br/>

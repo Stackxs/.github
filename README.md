@@ -350,48 +350,9 @@ We're always looking for talented individuals to join our team and contribute to
 
 </div>
 
-<br>
+<br/>
 
-## 💼 What We Do
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" alt="Development"/>
-<h3>🔧 Development</h3>
-<p>Full-stack development with cutting-edge technologies</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" alt="Cloud"/>
-<h3>☁️ Cloud Solutions</h3>
-<p>Scalable cloud infrastructure and DevOps practices</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" alt="AI"/>
-<h3>🤖 AI & ML</h3>
-<p>Advanced AI solutions and machine learning integration</p>
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🎖️ Our Values
-
-```mermaid
-mindmap
-  root((Stackxs))
-    Innovation
-      Creativity
-      Forward Thinking
-      R&D
-    Quality
-      Best Practices
-      Code Review
-      Testing
-    Collaboration
-      Open Source
-   💎 Core Values
+## 💎 Core Values
 
 <div align="center">
 
@@ -556,16 +517,35 @@ Building Remotely 🌍
 
 </div>
 
-<br/v align="center">
+<br/>
 
-### ⭐ Show Some Love
+<div align="center">
 
-If you like our work, give us a star! It helps us grow and motivate us to create more amazing projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thank%20You!&fontSize=50&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Stackxs;Open+Source+%7C+Innovation+%7C+Excellence" alt="Footer" />
+<br/>
 
-**© 2026 Stackxs. All rights reserved.**
+### ⭐ If you like our work, give us a star!
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Stackxs;Innovating+%7C+Building+%7C+Transforming;Open+Source+%E2%80%A2+Excellence+%E2%80%A2+Community" alt="Footer" />
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License"/>
+  <img src="https://img.shields.io/badge/Made_with-❤️-red.svg?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-green.svg?style=for-the-badge&logo=github&logoColor=white" alt="Maintained"/>
+</p>
+
+<br/>
+
+**© 2026 Stackxs Organization. All Rights Reserved.**
+
+<br/>
+
+<a href="#top">
+  <img src="https://img.shields.io/badge/Back_to_Top-000000?style=for-the-badge&logo=riseup&logoColor=white" alt="Back to Top"/>
+</a>
 
 </div>

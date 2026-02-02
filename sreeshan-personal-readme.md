@@ -2,8 +2,6 @@
 
 <div align="center">
 
-## 🚀 Co-Founder & CEO at Stackxs
-
 [![GitHub](https://img.shields.io/badge/GitHub-Sreeshan7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreeshan7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeshan-reddy-34064b320/)
 [![Email](https://img.shields.io/badge/Email-sreeshanreddy26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeshanreddy26@gmail.com)

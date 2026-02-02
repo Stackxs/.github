@@ -69,7 +69,6 @@
 </div>
 <br/><br/>
 <h3 style="margin: 0;">Sreeshan Reddy Dhaka</h3>
-<p style="color: #6366F1; font-weight: 600; margin: 5px 0;">Founder & CEO</p>
 <p style="font-size: 14px; color: #666; margin: 10px 0;">Visionary leader driving innovation</p>
 <br/>
 <p>
@@ -89,11 +88,10 @@
 </td>
 <td align="center" width="50%" style="padding: 20px;">
 <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 5px; border-radius: 50%; display: inline-block;">
-<img src="assets/images/himanshu.jpeg" width="180px" style="border-radius: 50%; border: 4px solid white;" alt="Himanshu Bagga"/>
+<img src="assets/images/himanshu.png" width="180px" style="border-radius: 50%; border: 4px solid white; object-fit: cover; object-position: center 35%;" alt="Himanshu Bagga"/>
 </div>
 <br/><br/>
 <h3 style="margin: 0;">Himanshu Bagga</h3>
-<p style="color: #8B5CF6; font-weight: 600; margin: 5px 0;">Founder & CTO</p>
 <p style="font-size: 14px; color: #666; margin: 10px 0;">Technical architect & strategist</p>
 <br/>
 <p>
